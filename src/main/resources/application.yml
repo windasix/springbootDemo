@@ -1,0 +1,6 @@
+spring:
+  profiles:
+#   active: @activatedProperties@
+    active: local
+    #active: qa
+    #active: test
